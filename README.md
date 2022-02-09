@@ -1,2 +1,2 @@
-# Autentificacion-registro-y-bloqueo-usuarios
-Proyecto segunda vuelta
+# AUTENTIFICACIÓN, REGISTRO Y BLOQUEO DE USUARIOS 
+Alan Jesús López Alcántara
